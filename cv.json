@@ -1,0 +1,274 @@
+{
+   "basics": {
+      "name": "Juan Pablo Sanabria Moscoso",
+      "label": "Programador e Investigador",
+      "image": "https://i.ibb.co/BCBgjCF/yo.webp",
+      "email": "jsanabriab12@gmail.com",
+      "phone": "(+57) 319 5029874",
+      "url": "https://golden-daifuku-af9ce5.netlify.app/",
+      "summary": "Soy programador e investigador con experiencia en desarrollo de software utilizando tecnologías como Laravel, Python, MongoDB y MySQL. Especializado en automatización, análisis de datos y cumplimiento de estándares web, busco seguir creciendo profesionalmente y especializarme en el sector tecnológico.",
+      "location": {
+        "address": "Carrera 19 No. 43-44",
+        "postalCode": "111311",
+        "city": "Bogotá",
+        "countryCode": "CO",
+        "region": "Bogotá D.C"
+      },
+      "profiles": [{
+        "network": "LinkedIn",
+        "username": "Juan Pablo Sanabria Moscoso",
+        "url": "https://www.linkedin.com/in/juan-pablo-sanabria-moscoso-baaa2a192/"
+      },
+      {
+        "network": "GitHub",
+        "username": "jpsanabria37",
+        "url": "https://github.com/jpsanabria37"
+      }]
+    },
+   "work": [
+      {
+        "name": "SENA",
+        "position": "Investigador y Desarrollador de Software",
+        "url": "https://sena.edu.co",
+        "startDate": "2021-01-01",
+        "endDate": "2023-12-01",
+        "summary": "Lideré proyectos de investigación y desarrollo tecnológico, enfocándome en herramientas de predicción de variables meteorológicas y evaluaciones de accesibilidad web conforme al estándar WCAG.",
+        "highlights": [
+          "Desarrollé un software de predicción de variables meteorológicas utilizando Python.",
+          "Creé una herramienta automatizada para evaluar el cumplimiento de estándares WCAG, integrando tecnologías como Selenium, Axe y OpenAI.",
+          "Obtuve el 3er puesto en SENA Soft 2022 gracias a la implementación de un sistema de automatización de pruebas."
+        ]
+      },
+      {
+        "name": "Proyecto Personal",
+        "position": "Desarrollador Full Stack",
+        "url": "https://golden-daifuku-af9ce5.netlify.app/",
+        "startDate": "2023-01-01",
+        "endDate": "Presente",
+        "summary": "He trabajado en el desarrollo de aplicaciones web personalizadas, combinando tecnologías modernas para resolver problemas específicos y mejorar la experiencia del usuario.",
+        "highlights": [
+          "Implementé un sistema de gestión de conocimiento para proyectos de investigación en Laravel con un enfoque en usabilidad y reportes dinámicos.",
+          "Desarrollé una API para analizar múltiples sitios web, identificar problemas comunes de accesibilidad y almacenar resultados en MongoDB.",
+          "Lideré la implementación de un dashboard interactivo con perfiles diferenciados usando AdminLTE."
+        ]
+      }
+    ],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [
+      {
+        "institution": "Servicio Nacional de Aprendizaje (SENA)",
+        "url": "https://sena.edu.co",
+        "area": "Análisis y Desarrollo de Sistemas de Información",
+        "studyType": "Técnico Profesional",
+        "startDate": "2018-01-01",
+        "endDate": "2020-12-01",
+        "score": "4.5",
+        "courses": [
+          "Desarrollo de software en entornos web con Laravel.",
+          "Bases de datos relacionales y no relacionales (MySQL y MongoDB).",
+          "Automatización de pruebas de software con Selenium."
+        ]
+      },
+      {
+        "institution": "Centro de Electricidad, Electrónica y Telecomunicaciones (CEET) - SENA",
+        "url": "https://www.sena.edu.co/",
+        "area": "Investigación y desarrollo en accesibilidad web",
+        "studyType": "Especialización Técnica",
+        "startDate": "2021-01-01",
+        "endDate": "2023-01-01",
+        "score": "4.7",
+        "courses": [
+          "Análisis de accesibilidad conforme al estándar WCAG.",
+          "Uso de herramientas como Axe y OpenAI para mejorar la accesibilidad web.",
+          "Desarrollo de proyectos de investigación tecnológicos."
+        ]
+      }
+    ],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "Master",
+        "keywords": [
+          "Desarrollo Web", "Frontend"
+        ]
+      },
+      {
+        "name": "CSS",
+        "level": "Master",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "level": "Master",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+        ]
+      },
+      {
+        "name": "Tailwind",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "TypeScript",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+        ]
+      },
+      {
+        "name": "Node",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+        ]
+      },
+      {
+        "name": "MySQL",
+        "level": "Avanzado",
+        "keywords": [
+          "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        ]
+      },
+      {
+        "name": "Git",
+        "level": "Avanzado",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente"
+        ]
+      },
+      {
+        "name": "GitHub",
+        "level": "Avanzado",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        ]
+      },
+      {
+        "name": "Next.js",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        ]
+      },
+      {
+        "name": "React",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        ]
+      }
+    ],
+    "languages": [{
+      "language": "English",
+      "fluency": "Native speaker"
+    }],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [
+      {
+        "name": "mars.codes",
+        "isActive": true,
+        "description": "Historia interactiva con retos de programación para viajar a Marte",
+        "highlights": [
+          "Elige tu propia aventura",
+          "En desarrollo"
+        ],
+        "url": "https://mars.codes"
+      },
+      {
+        "name": "AdventJS",
+        "isActive": true,
+        "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+        "highlights": [
+          "+1 millón de visitas",
+          "Multidioma",
+          "JavaScript & TypeScript"
+        ],
+        "url": "https://adventjs.dev"
+      },
+      {
+        "name": "Codember",
+        "isActive": true,
+        "description": "Juego interactivo de programación con retos y secretos",
+        "highlights": [
+          "+2000 usuarios activos",
+          "Retos para cualquier lenguaje"
+        ],
+        "url": "https://codember.dev"
+      },
+      {
+        "name": "codi.link",
+        "isActive": true,
+        "description": "Playground de código HTML, CSS y JavaScript para compartir",
+        "highlights": [
+          "100k visitas al mes",
+          "Desarrollado por la comunidad"
+        ],
+        "url": "https://codi.link",
+        "github": "https://github.com/midudev/codi.link"
+      },
+      {
+        "name": "Pruebas Técnicas",
+        "isActive": true,
+        "description": "Lista de pruebas técnicas de empresas para practicar programación",
+        "highlights": [
+          "100% gratuito",
+          "+500 soluciones de la comunidad"
+        ],
+        "url": "https://pruebastecnicas.com",
+        "github": "https://github.com/midudev/pruebas-tecnicas"
+      },
+      {
+        "name": "miduConf",
+        "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
+        "highlights": [
+          "+15k tickets repartidos",
+          "+50k espectadores en directo"
+        ],
+        "url": "https://miduconf.com"
+      }
+    ]
+  }
